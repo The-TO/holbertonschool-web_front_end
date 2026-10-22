@@ -1,5 +1,5 @@
 /* Task 3 - Color custom properties */
-root{
+:root{
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
